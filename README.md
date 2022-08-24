@@ -3,7 +3,7 @@
 
 <p> I am a third-year student studying Computer Systems Engineering at Auckland University with an interest in robotics, FPGA design, embedded systems and the Internet of Things (IoT). </p>
 
-- 🌱 I’m currently learning **MIPS Assembly, Autonomous Vehicles**
+- 🌱 I’m currently learning **MIPS Assembly, Hardware & Software Design**
 
 - 📫 How to reach me **jordangreen.ilc@gmail.com**
 
